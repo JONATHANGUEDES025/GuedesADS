@@ -12,7 +12,7 @@ A versao do iPad esta na pasta `ipad/` e foi feita como aplicativo web instalave
 Depois que o GitHub Pages estiver ativado no repositorio, abra no Safari do iPad:
 
 ```text
-https://jonathanguedes025.github.io/GuedesADS/ipad/
+https://jonathanguedes025.github.io/APPCantinaTUFI/ipad/
 ```
 
 No iPad:
